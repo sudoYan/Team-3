@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153390499303",
+    "firebase_url": "https://teamhack-16221.firebaseio.com",
+    "project_id": "teamhack-16221",
+    "storage_bucket": "teamhack-16221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153390499303:android:fc5d9b3c2cdcc195fb6942",
+        "android_client_info": {
+          "package_name": "com.example.teamhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153390499303-7i93cjvhmiaamhrqif7h893olvktsd1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamhack",
+            "certificate_hash": "8f01ddc19d98c394c0bfe0e9f2d93850828911ed"
+          }
+        },
+        {
+          "client_id": "153390499303-l0i2b0r8in5sl1g8fm6rdrntlj01d6b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0T8AXM7fEx9hULBNw5zQGRsN0Rm_1lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153390499303-l0i2b0r8in5sl1g8fm6rdrntlj01d6b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
